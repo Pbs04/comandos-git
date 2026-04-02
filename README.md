@@ -11,4 +11,6 @@
     <li> <strong> git checkout -b feature/{nome da branch} : </strong> - cria uma branch e ja te coloca dentro dela</li>
     <li> <strong> git checkout {nome da branch}: </strong> - entra na branch</li>
     <li> <strong> git push origin {nome da branch}: </strong> - manda para a branch que criei os arquivos</li>
+    <li> <strong> git pull origin {nome da branch}: </strong> - puxa o que eu modifiquei na nuvem</li>
+    <li> <strong> git branch -l <strong> - lista as branchs do meu computador </li>
 </ul>
