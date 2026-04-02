@@ -8,4 +8,5 @@
     <li>git add {nomeDoArquivo}: adiciona o arquivo ao repositorio</li>
     <li>git commit -m "feat: {o que voce fez}": adiciona as mudanças no repositorio</li>
     <li>git push origin main: lança o arquivo com o commit ja feito pra la</li>
+    <li>git checkout -b feature/{nome da branch} : cria uma branch e ja te coloca dentro dela</li>
 </ul>
