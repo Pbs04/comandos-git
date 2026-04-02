@@ -1,7 +1,7 @@
 ## Comandos Git
 
 <ul> 
-    <li> git init: Inicia o git na pasta gerando o .git</li>
+    <li> <b>git init: </b>Inicia o git na pasta gerando o .git</li>
     <li> git status: mostra o branch atual e quantos commits foram feitos</li>
     <li> git branch -M {nome}: renomeia a branch atual</li>
     <li> git remote add origin {linkDoRepositorio}: adiciona a pasta no repositorio</li>
